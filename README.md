@@ -1,3 +1,3 @@
-# Pathfinders Website
+# [OLD] Pathfinders Website
 
-This repo has the source code for the pathfinders.pandemic.mit.edu website.
+This repo is now defunct. The source code for the pathfinders.mit.edu website is located in our new repo, here: https://github.com/mit-pathfinders/mit-pathfinders.github.io/
